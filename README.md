@@ -25,4 +25,9 @@ A community driven repo for practising striver's DSA sheet, consistently. Target
 
 ### 3. Accountability 🔥
 
-- on every sunday, one person out of the community will check who among the members have not submitted/committed the daily problem solution/attempt, and will message the person on linkedin asking the reason. So that we all can be accountable to do this everyday for next 6 months.
+- on every sunday, one person out of the community will check who among the members have not submitted/committed the daily problem solution/attempt, and will message the person on linkedin (links below) asking the reason. So that we all can be accountable to do this everyday for next 6 months.
+
+## 🥷🏻 Members of this community 🥷🏻 ⬇
+
+1. [Mohit Verma](https://www.linkedin.com/in/codeofmohit-mohit-verma/)
+2. [Pratham Gupta](https://www.linkedin.com/in/prathamg399/)
