@@ -7,7 +7,7 @@ A community driven repo for practising striver's DSA sheet, consistently. Target
 - 🚀 Start date : 23 May 2024
 - 🎯 Probable End Date : 23 November 2024 [or before it]
 
-## ⧴ Rules
+## ⧴ Rules (follow these) ⬇️
 
 ### 1. Personalization 🔥
 
