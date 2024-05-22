@@ -4,10 +4,10 @@ A community driven repo for practising striver's DSA sheet, consistently. Target
 
 [Striver DSA Sheet Link (click here!) ](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
-🚀 Start date : 23 May 2024
-🎯 Probable End Date : 23 November 2024 [or before it]
+- 🚀 Start date : 23 May 2024
+- 🎯 Probable End Date : 23 November 2024 [or before it]
 
-## Rules
+## ⧴ Rules
 
 ### 1. Personalization 🔥
 
