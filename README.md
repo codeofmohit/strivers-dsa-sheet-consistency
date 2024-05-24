@@ -3,7 +3,13 @@
 - 🚀 Start date : 23 May 2024
 - 🎯 Probable End Date : 23 November 2024 [or before it]
 
-## Day 1 - 23 May 2024
+## Day 2 - 24 May 2024 ✅
+
+Problem : Array - part - 1 - 1 - Set Matrix Zeros
+
+- same problem as yesterday, but trying to do it in an optimal way
+
+## Day 1 - 23 May 2024 ✅
 
 Problem : Array - part - 1 - 1 - Set Matrix Zeros
 
