@@ -31,3 +31,6 @@ A community driven repo for practising striver's DSA sheet, consistently. Target
 
 1. [Mohit Verma](https://www.linkedin.com/in/codeofmohit-mohit-verma/)
 2. [Pratham Gupta](https://www.linkedin.com/in/prathamg399/)
+3. [Manishita Prasad](https://www.linkedin.com/in/manishita-prasad-725062203/)
+4. [Rampreetham Kanchi](https://www.linkedin.com/in/rampreetham-kanchi-0b8aa11b8/)
+5. [Yashasewi Singh](https://www.linkedin.com/in/yashasewi/)
