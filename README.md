@@ -1,8 +1,8 @@
-# Strivers-DSA-Sheet-Consistency
+# Strivers A2Z DSA Course/Sheet-Consistency
 
 A community driven repo for practising striver's DSA sheet, consistently. Target to complete the sheet or at least attempt each problem in next 180 days.
 
-[Striver DSA Sheet Link (click here!) ](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+[Striver A@Z DSA Sheet Link (click here!) ](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 
 - 🚀 Start date : 23 May 2024
 - 🎯 Probable End Date : 23 November 2024 [or before it]
